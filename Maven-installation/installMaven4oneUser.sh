@@ -8,7 +8,7 @@ sudo yum install wget nano tree unzip git-all -y
 sudo yum install java-11-openjdk-devel java-1.8.0-openjdk-devel -y
 #2. Install Maven.sh
 #Step1) Download the Maven Software
-sudo wget https://dlcdn.apache.org/maven/maven-3/3.8.5/binaries/apache-maven-3.8.4-bin.zip
+sudo wget https://dlcdn.apache.org/maven/maven-3/3.8.5/binaries/apache-maven-3.8.5-bin.zip
 sudo unzip apache-maven-3.8.5-bin.zip
 sudo rm -rf apache-maven-3.8.5-bin.zip
 sudo mv apache-maven-3.8.5/ maven
